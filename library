@@ -1,0 +1,15 @@
+얼굴 랜드마크 추출 라이브러리
+pip install mediapipe
+* 오류가 뜬다면 파이썬 버전을 3.7~3.10으로 바꿔야 함
+
+카메라 입력을 처리하고 이미지를 다루는 컴퓨터 비전 라이브러리
+pip install opencv-python
+
+ROI영역의 RGB 평균값 계산 및 배열 처리를 위한 라이브러리
+pip install numpy
+
+rPPG 신호 전처리를 위한 함수.
+pip install scipy
+
+스트레스 지수 공식 = 1/RMSSD * 100/SDNN
+
